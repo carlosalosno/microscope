@@ -25,3 +25,5 @@ twbs:bootstrap
 session
 iron:router
 sacha:spin
+accounts-password
+ian:accounts-ui-bootstrap-3
